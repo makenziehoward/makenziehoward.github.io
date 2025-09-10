@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - images/**
+
 
 website:
   title: "Makenzie Howard"
