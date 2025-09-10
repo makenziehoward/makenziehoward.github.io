@@ -6,7 +6,8 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-![](/images/headshot.jpeg){width=100% fig-align="center"}
+![](images/headshot.jpeg){width=100% fig-align="center"}
+
 
 
 
