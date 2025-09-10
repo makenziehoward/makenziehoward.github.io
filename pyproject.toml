@@ -1,0 +1,19 @@
+[project]
+name = "makenziehoward-github-io"
+version = "0.0.1"
+description = "Initial website for Makenzie Howard GitHub"
+authors = [
+    {name = "makenziehoward",email = "230887373+makenziehoward@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = "^3.13"
+dependencies = [
+]
+
+[tool.poetry]
+packages = [{include = "makenziehoward"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
