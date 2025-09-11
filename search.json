@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "Welcome to My Quarto Site",
     "section": "",
-    "text": "THIS IS THE NEW HOMEPAGE ✅\nBelow is a super-simple Python output:\nprint(“Hello from Python on my EC2!”)"
+    "text": "THIS IS THE NEW HOMEPAGE ✅\nBelow is a super-simple Python output:\n\nprint(\"Hello from Python on my EC2!\")\n\nHello from Python on my EC2!"
   }
 ]
